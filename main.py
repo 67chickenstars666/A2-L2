@@ -1,13 +1,5 @@
-name="pengu"
-age="10"
-is_stdent=True
-weight=29.7
-print("Name:", name)
-print("Age:", age)
-print("Is Student:", is_stdent)
-print("Weight:", weight)
-print("/n After Type Casting:")
-age=str(age)
-weight=int(weight)
-print(weight)
-print("Data Type of weight:", type(weight))
+
+print ("This is your main.py file.")
+print ("You can start adding your code here.")
+print ("Just Like I Did It!")
+print ("Congrats On Setting Up Your Python Project!")
