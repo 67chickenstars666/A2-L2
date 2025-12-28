@@ -1,6 +1,6 @@
-x= 999
-y= "a"
-if type(x) == int:
-    print("x is an integer")
-if not type(y) == int:
-    print("y is not an integer")
+a="hello"
+b=9.5
+if type(a)==str:
+    print("a is string")
+else:
+    print("b is a float")
